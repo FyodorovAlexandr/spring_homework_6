@@ -1,0 +1,5 @@
+stock-data:
+  real-time: https://api.stockdata.org/v1/data/quote?symbols=AAPL%2CTSLA%2CMSFT&api_token=8EfuMBEyvaG0SJNW8cqqTGUtMLyEbSClhGMhQLFo
+  historical: https://api.stockdata.org/v1/data/eod?symbols=TSLA&api_token=8EfuMBEyvaG0SJNW8cqqTGUtMLyEbSClhGMhQLFo
+server:
+  port: 8010
